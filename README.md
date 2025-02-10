@@ -109,4 +109,6 @@ For issues and feature requests, please use the GitHub issues page.
 - Basic ALT text generation
 - Finnish translation support
 - Debug console
-- Bulk processing features 
+- Bulk processing features
+
+Preview: https://streamable.com/pu6qxm
